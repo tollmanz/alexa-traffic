@@ -1,0 +1,23 @@
+# The distribution folder holding the .zip files uploaded to Lambda
+dist
+
+# IntelliJ configuration
+.idea
+
+# OS X cruft
+.DS_Store
+
+# Amazon credentials
+credentials.json
+
+# Modules should be built in the environment
+node_modules
+
+# Resources are generated and do not need to be saved in VCS
+resources
+
+# API keys and such
+secrets.js
+
+# Locations...don't want the world to easily know the locations I'm moving to and from
+locations.js

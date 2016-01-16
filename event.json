@@ -1,0 +1,26 @@
+{
+  "session": {
+    "sessionId": "",
+    "application": {
+      "applicationId": ""
+    },
+    "user": {
+      "userId": ""
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.ce3a8709-0c66-4b49-b1ad-4ef8291f94e4",
+    "timestamp": "2016-01-16T19:14:49Z",
+    "intent": {
+      "name": "trafficStatusIntent",
+      "slots": {
+        "LOCATION": {
+          "name": "LOCATION",
+          "value": "work"
+        }
+      }
+    }
+  }
+}

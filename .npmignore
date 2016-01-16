@@ -1,0 +1,20 @@
+# Test event for development
+event.json
+
+# Our Grunt file for configuring build tasks
+Gruntfile.js
+
+# The distribution folder holding the .zip files uploaded to Lambda
+dist
+
+# The scripts folder for dev tasks
+scripts
+
+# Resources folder for dev related things
+resources
+
+# Amazon credentials
+credentials.json
+
+# OS X cruft
+.DS_Store
